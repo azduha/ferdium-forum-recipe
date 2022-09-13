@@ -1,0 +1,12 @@
+{
+  "id": "duhove-forum",
+  "name": "Duhové Fórum",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/roseckyj/franz-duhoveforum",
+  "config": {
+    "serviceURL": "https://{teamId}@azduha.cz/forum/",
+    "hasNotificationSound": true,
+    "hasTeamId": true    
+  }
+}
