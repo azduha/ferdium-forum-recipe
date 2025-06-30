@@ -3,7 +3,7 @@
   "name": "Duhové Fórum",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "https://github.com/roseckyj/franz-duhoveforum",
+  "repository": "https://github.com/azduha/ferdium-forum-recipe",
   "config": {
     "serviceURL": "https://{teamId}@azduha.cz/forum/",
     "hasNotificationSound": true,
